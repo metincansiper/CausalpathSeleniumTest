@@ -2,8 +2,8 @@
   <test name="Test One">
     <parameter name="test-name" value="Test One"/>
     <classes>
-      <!-- <class name="causalpathtest.CausalpathChromeTest" /> -->
-      <class name="causalpathtest.CausalpathSafariTest" />
+      <class name="causalpathtest.CausalpathChromeTest" />
+      <!-- <class name="causalpathtest.CausalpathSafariTest" /> -->
     </classes>
   </test>
 </suite>
